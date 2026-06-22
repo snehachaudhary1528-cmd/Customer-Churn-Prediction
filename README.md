@@ -81,6 +81,7 @@ https://github.com/user-attachments/assets/7c8fb4a2-f95f-45c3-a40d-507c3396840c
 ---
 
 ## 📬 Connect with Me
-[LinkedIn]((https://www.linkedin.com/in/sneha-chaudhary-3638712a2/)) | [GitHub](https://github.com/snehachaudhary1528-cmd)
+[LinkedIn](https://www.linkedin.com/in/sneha-chaudhary-3638712a2/) | [GitHub](https://github.com/snehachaudhary1528-cmd)
+
 
 ⭐ **Star this repo if you found it helpful!**
